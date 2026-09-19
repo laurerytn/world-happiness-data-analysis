@@ -1,4 +1,4 @@
-# world-happiness-data-analysis
+# world happiness data analysis
 Python analysis of global happiness trends and their economic, social and institutional correlates.
 
 Research Question: How has reported happiness changed across countries and over time, and how is it associated with economic, social, institutional, and emotional factors?
